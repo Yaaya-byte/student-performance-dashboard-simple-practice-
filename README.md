@@ -1,10 +1,9 @@
-# student-performance-dashboard-simple-practice-
 Practice project focused on SQL joins, Power BI relationships, appends, and DAX — built to learn, not as a polished dashboard.
 # Student Performance Dashboard
 
 ## Overview
 A Power BI dashboard analyzing student scores across subjects (English, Math), 
-built from SQL Server data using [class_a, class_b, scores] tables.
+built from SQL Server data using [class_a, class_b, scores and more other] tables.
 
 ## Tools Used
 - SQL Server (data source)
